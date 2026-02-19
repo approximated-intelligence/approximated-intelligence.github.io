@@ -54,7 +54,7 @@ Any original thought is new and out-of-distribution by definition. So original t
 
 ---
 
-There's an old American Airlines training video about pilots who grew up on automated cockpits. They could follow the magenta route on the flight management system but couldn't fly the plane when the computers disconnected. They called them the "Children of the Magenta Line."
+There's an [old American Airlines training video](https://www.youtube.com/watch?v=5ESJH1NLMLs) about pilots who grew up on automated cockpits. They could follow the magenta route on the flight management system but couldn't fly the plane when the computers disconnected. They called them the "[Children of the Magenta Line](https://www.youtube.com/watch?v=5ESJH1NLMLs)."
 
 The skill to think without the tool atrophies.[^1] And the tool itself resists out-of-distribution thought, because the attractors pull every output back to the bottom of the bowl. Both at the same time. The human has lost the muscle, and the tool fights the unusual move.
 
