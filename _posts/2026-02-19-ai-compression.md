@@ -66,9 +66,9 @@ And this doesn't require a dramatic crash. It's not just the Tesla plowing into 
 
 Raising the floor while lowering the ceiling and removing the incentive to reach for the sky is a net negative for society. The average might even improve. But progress comes from the tails. The person who spends an unreasonable amount of time on a problem everyone else considers solved. The strategy that sounds wrong to most people but turns out to be right. The founder who ignores every playbook because she sees something no one else does.
 
-RLHF, by construction, optimizes for the mean.[^2] If we let that mean colonize our decision-making, not just our writing or our images but our actual thinking about what to do and why, we get a society that's competent on average and incapable of surprise. Smooth, polished, and sterile.
+RLHF, by construction, optimizes for the mean.[^2] If we let that mean colonize our decision-making, not just our writing or our images - but our actual thinking about what to do and why, we get a society that's competent on average and incapable of surprise. Smooth, polished, and sterile.
 
-Like a JPEG re-encoded until the edges are gone. No crisis needed. Just routine. Each pass boring and unremarkable. The structure dissolves.
+Like a JPEG re-encoded until the detail is gone. No crisis needed - Just routine. Each pass boring and unremarkable, but the structure dissolves.
 
 Don't become complacent. Be a human. Push back.
 
