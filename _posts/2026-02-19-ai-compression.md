@@ -66,7 +66,7 @@ And this doesn't require a dramatic crash. It's not just the Tesla plowing into 
 
 Raising the floor while lowering the ceiling and removing the incentive to reach for the sky is a net negative for society. The average might even improve. But progress comes from the tails. The person who spends an unreasonable amount of time on a problem everyone else considers solved. The strategy that sounds wrong to most people but turns out to be right. The founder who ignores every playbook because she sees something no one else does.
 
-RLHF, by construction, optimizes for the mean.[^2] If we let that mean colonize our decision-making, not just our writing or our images - but our actual thinking about what to do and why, we get a society that's competent on average and incapable of surprise. Smooth, polished, and sterile.
+RLHF, by construction, optimizes for the mean.[^2] If we let that mean colonize our decision-making, not just our writing or our images - but our actual thinking about what to do and why, we get a society that's competent on average and incapable of excellence or surprise. Smooth, polished, and sterile.
 
 Like a JPEG re-encoded until the detail is gone. No crisis needed - Just routine. Each pass boring and unremarkable, but the structure dissolves.
 
@@ -74,13 +74,9 @@ Don't become complacent. Be a human. Push back.
 
 ---
 
-*For a checklist on spotting AI tells in writing (and how to avoid them): [AI Tells in Thought Pieces](https://blog.approximated-intelligence.de/2026/02/19/ai-tells.html)*
+### The raw material discussed with the LLM that wrote most of this post.
 
----
-
-## The raw material discussed with the LLM that wrote most of this post.
-
-### My arguments, as I made them, in order
+#### My arguments, as I made them, in order
 
 1. "more and more people are using LLMs (Claude, ChatGPT, Gemini, Grok) to solve problems they have, get direction in life and business decisions, due to RLHF, Alignment and the statistical regression to the mean (and model collapse to a few possible outputs after Finetuning, instead of the base models richness) more and more people will do the default thing."
 
