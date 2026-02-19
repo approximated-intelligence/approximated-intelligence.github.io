@@ -64,13 +64,9 @@ And this doesn't require a dramatic crash. It's not just the Tesla plowing into 
 
 ---
 
-Who selects what goes into the next generation of training data? The volume is too large for human judgment. Machines will do it. And those machines will encode preferences, just like RLHF does. The selection of what counts as good data is itself another set of attractors, another re-encoding pass.
+Raising the floor while lowering the ceiling and removing the incentive to reach for the sky is a net negative for society. The average might even improve. But progress comes from the tails. The person who spends an unreasonable amount of time on a problem everyone else considers solved. The strategy that sounds wrong to most people but turns out to be right. The founder who ignores every playbook because she sees something no one else does.
 
----
-
-Raising the floor while lowering the ceiling and removing the incentive to reach for the ceiling is a net negative for society. The average might even improve. But progress comes from the tails. The person who spends an unreasonable amount of time on a problem everyone else considers solved. The strategy that sounds wrong to most people but turns out to be right. The founder who ignores every playbook because she sees something no one else does.
-
-RLHF, by construction, optimizes for the median. If we let that median colonize our decision-making, not just our writing or our images but our actual thinking about what to do and why, we get a society that's competent on average and incapable of surprise. Smooth, polished, and sterile.
+RLHF, by construction, optimizes for the median.{^2] If we let that median colonize our decision-making, not just our writing or our images but our actual thinking about what to do and why, we get a society that's competent on average and incapable of surprise. Smooth, polished, and sterile.
 
 Like a JPEG re-encoded until the edges are gone. No crisis needed. Just routine. Each pass boring and unremarkable. The structure dissolves.
 
@@ -167,3 +163,4 @@ This conversation took sustained effort from the author to keep the arguments in
 ---
 
 [^1]: There is another angle to this that deserves mention. Because RLHF trains models to produce what humans *like*, the tool also acts as a mirror. It reinforces your predispositions. Tells you what you want to hear. We get echo chambers of one, and in extreme cases this can drive people toward psychosis. The public output converges toward the bland median while private beliefs harden. A different kind of fractal degradation, from the same cause.
+[^2]: Who selects what goes into the next generation of training data? The volume is too large for human judgment. Machines will do it. And those machines will encode preferences, just like RLHF does. The selection of what counts as good data is itself another set of attractors, another re-encoding pass.
