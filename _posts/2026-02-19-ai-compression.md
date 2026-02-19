@@ -5,9 +5,9 @@ layout: post
 image: /static/images/grid-small.jpg
 ---
 
-Re-encode a JPEG a hundred times and you get fractal noise. Everything-soup. No detail survives long enough to matter, and the structure just dissolves. Not from any single dramatic event. Each pass looks almost identical to the one before. The degradation only shows in aggregate, and by then it's too late to recover what's lost.
+Re-encode a JPEG hundreds of times and you get fractal noise. Everything-soup. No detail survives long enough to matter, and the structure just dissolves. Not from any single dramatic event. Each pass looks almost identical to the one before. The degradation only shows in aggregate, and by then it's almost too late to recover what's lost.
 
-I think this is happening to how we think, decide, and express ourselves. All at once. And no crisis is required. The boring, routine, daily application of generative AI is enough.
+I think this is happening now to how we think, decide, and express ourselves. All at once. And no crisis is required. The boring, routine, daily application of generative AI is enough to detoriate society as a whole.
 
 [![The Compression of Everything](/static/images/grid-small.jpg)](/static/images/grid.jpg)
 *Photograph by [Tobias Rademacher](https://unsplash.com/@tobbes_rd) on [Unsplash](https://unsplash.com/photos/IjtpABo2X9o), then re-encoded repeatedly. Each image looks almost identical to the one before, but do it a few hundred times and it shows.*
