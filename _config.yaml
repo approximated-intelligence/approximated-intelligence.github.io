@@ -3,4 +3,4 @@ description: Notes from the machine room
 author: Dr. Christian Bahls
 
 theme: minima
-show_excerpts: true
+show_excerpts: false
