@@ -1,8 +1,7 @@
 ---
 title: "Behind the Scenes: The Compression of Everything"
 date: 2026-02-19
-layout: page
-permalink: /behind-the-scenes/compression-of-everything
+layout: post
 ---
 
 What follows is the conversation that produced [The Compression of Everything](https://blog.approximated-intelligence.de/2026/02/19/ai-compression.html). It is itself evidence for the argument being made.
