@@ -318,7 +318,7 @@ For attractors, I'd avoid the formal physics framing. Something more like: if yo
 ## Christian:
 The longer you use it, the harder it is to keep the marble anywhere else. ?
 
-the range of acceptable opinion -> i don't want so sound like a right or left wing nut .. how to avoid that?
+the range of acceptable opinion -> i don't want so sound like a nut job .. how to avoid that?
 
 ## Claude:
 You're right on the marble. That sentence doesn't actually make sense for how attractors work. The marble always rolls to the bottom, every time. It's not about duration of use. It's about the shape of the landscape.
