@@ -78,7 +78,7 @@ Don't become complacent. Be a human. Push back.
 
 ---
 
-## The raw material
+## The raw material discussed with the LLM that wrote most of this post.
 
 ### My arguments, as I made them, in order
 
