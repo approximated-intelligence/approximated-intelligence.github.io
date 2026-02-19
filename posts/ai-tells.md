@@ -35,19 +35,19 @@
 ## Write Like a Human
 
 ### Have a center of gravity
-Pick the thing you actually care about. Let it pull everything toward it unevenly. If every section feels equally important, none of them are.
+Pick the thing you actually care about. Let it pull everything toward it, even it makes the piece seem uneven. If every section feels equally important, none of them are.
 
-### Be uneven on purpose
+### Not everything has to be polished
 Linger where you're fascinated. Rush past what bores you. The reader will feel the difference between a mind at work and a machine filling space.
 
-### Commit, then recover
-State something slightly too strong. Then wrestle with it. That tension *is* the thinking. Don't hedge upfront — earn your nuance.
+### Commit, you can recover
+It isn't a problem to state something slightly too strong - then wrestle with the consequences. That tension *is* the thinking. Don't hedge upfront - earn your nuance.
 
-### Use strange references
-Connect your argument to something only *you* would connect it to. The grocery store. A conversation you half-remember. A book nobody else would cite here.
+### Use your own references
+Connect your argument to something only *you* would connect it to. An annecdote or something that only you connect to.
 
-### Leave things out
-Trust the reader. Skip the setup everyone already knows. Silence is a signal that you respect the audience.
+### Have the Freedom to leave things out
+Trust the reader - skip the setup everyone already knows. Explaining only what needs to be explained is a signal that you respect your audience. And here you can really show your humanity - current AI lacks the ability to separate one from the other.
 
 ### Let rhythm break
 Short sentence. Then a long, winding one that delays its verb because you're still working out what you mean. Monotone cadence is the deepest tell.
@@ -56,4 +56,4 @@ Short sentence. Then a long, winding one that delays its verb because you're sti
 If something is genuinely ambiguous, let the sentence be ambiguous. Forcing false clarity is a machine behavior.
 
 ### Kill the "isn't/is" move
-If you catch yourself writing "X isn't Y — it's Z," stop. Either spend 2000 words earning the reframe, or cut it. The unearned redefinition is a thought-terminating cliché.
+If you catch yourself writing "X isn't Y -> it's Z," stop. Either spend 2000 words earning the reframe, or cut it. The unearned redefinition is a thought-terminating cliché.
