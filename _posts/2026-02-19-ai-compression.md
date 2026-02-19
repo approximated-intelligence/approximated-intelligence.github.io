@@ -2,15 +2,15 @@
 title: "The Compression of Everything"
 date: 2026-02-19
 layout: post
+image: /static/images/grid-small.jpg
 ---
-
-![Original photograph](/assets/images/compression/000_original.jpg)
-![After 500 re-encoding passes at default quality](/assets/images/compression/500_round.jpg)
-*Photograph by [Tobias Rademacher](https://unsplash.com/@tobbes_rd) on [Unsplash](https://unsplash.com/photos/IjtpABo2X9o), then re-encoded as JPEG 500 times at quality 85. Each pass looks almost identical to the one before.*
 
 Re-encode a JPEG a hundred times and you get fractal noise. Everything-soup. No detail survives long enough to matter, and the structure just dissolves. Not from any single dramatic event. Each pass looks almost identical to the one before. The degradation only shows in aggregate, and by then it's too late to recover what's lost.
 
-I think this is happening to how we think, decide, and express ourselves. All at once. And no crisis is required. The boring, routine, daily application of the technology is enough.
+I think this is happening to how we think, decide, and express ourselves. All at once. And no crisis is required. The boring, routine, daily application of generative AI is enough.
+
+[![The Compression of Everything](/static/images/grid-small.jpg)](/static/images/grid.jpg)
+*Photograph by [Tobias Rademacher](https://unsplash.com/@tobbes_rd) on [Unsplash](https://unsplash.com/photos/IjtpABo2X9o), then re-encoded repeatedly. Each image looks almost identical to the one before, but do it a few hundred times and it shows.*
 
 ---
 
